@@ -23,15 +23,19 @@ SK UNDANG JELEBU (Currently changed by other webmaster)
 
 Fuel Gain Kit Store for APT Touch
 >http://www.vcari.net/apttouch/wordpress
+>A complete e-commerce website including the store, payment gateway, cart and others. Wordpress(WooCo) & Laravel.
 
 Sistem Perdagangan Pengedaran Produk Petroleum Negara(DATAPETROL)
 >http://datapetrol.kpdnkk.gov.my
+>National Oil and Gas data management and visualization project under Ministry of Domestic Trade, Co operatives and Consumerism
 
 System Upgrade for Koperasi Islah Malaysia Berhad
 >http://kimbv2.vcari.net
+>Enhancement from old system to newer and better.GWT turned to Laravel, and including some additions of modules.
 
 Sistem Aplikasi Penguatkuasaan Lembaga Getah Malaysia (Eforce LGM)
 >https://ilgmforce.lgm.gov.my/eforceweb
+>Enforcement management system under Malaysian Rubber Board
 
 Whatsapp Link Generator
 >https://github.com/qeifar/WasapDen-Link-To-WA
@@ -48,7 +52,7 @@ HR-CV Hiring Systems
 
 #Others
 
-Quality And Project Management System For Cybersecurity Malaysia
+MyQuest - Quality And Project Management System For Cybersecurity Malaysia
 >Management system to monitor quality and projects for Cybersecurity Malaysia. Focused on user and permision modules .
 
 Sistem E-Surat "Jazz Document 2018"
@@ -62,5 +66,8 @@ Sistem Pemantauan Projek Berpusat Cawangan Kejuruteraan Mekanikal Bahagian Pengu
 
 MJIIT Fellowship Funding System
 >Assisted for data visualization; variety type of reports for MJIIT from student intake until projection and balance report for future. SQLyog,RedbeanPHP ORM and Kanbanflow.
+
+Community Apps Families
+>CommApp is intergrated application system for communities; inside had many apps such as CommApp, SchoolBee, ePasti, UniApp, Kawepay, NeighbourUnited,eTahlil and many more.
 
 
