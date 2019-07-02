@@ -1,29 +1,15 @@
+# Area of Interest
+>MVC Architecture
+>Digital Analytic and Machine Learning
+>Agile
+
 # List of my Portfolios
 
-TAHFIZYAMIN.COM
->http://tahfizyamin.com
+Accenture Newspage
+>Focus on reporting modules for Newspage product platform.
 
-BAITULZIKRI.COM
->http://temp.baitulzikri.com
-
-E3Thegas.COM
->http://e3thegas.com
-
-Websiteusahawan.COM
->http://websiteusahawan.com
-
-VPagePro.COM
->http://VPagePro.com
-
-WALIMATULURUS
->http://walimatulurus.vpagepro.com/mft143nhna
-
-SK UNDANG JELEBU (Currently changed by other webmaster)
->http://skuj.weebly.com
-
-Fuel Gain Kit Store for APT Touch
->http://www.vcari.net/apttouch/wordpress
->A complete e-commerce website including the store, payment gateway, cart and others. Wordpress(WooCo) & Laravel.
+PLANETMAHIR.COM
+>Malaysia local platform for Udemy alternative
 
 Sistem Perdagangan Pengedaran Produk Petroleum Negara(DATAPETROL)
 >http://datapetrol.kpdnkk.gov.my
@@ -37,13 +23,53 @@ Sistem Aplikasi Penguatkuasaan Lembaga Getah Malaysia (Eforce LGM)
 >https://ilgmforce.lgm.gov.my/eforceweb
 >Enforcement management system under Malaysian Rubber Board
 
+ORIONLUCK.COM
+>http://ORIONLUCK.COM
+>Property Company
+
+FIKRISZ.COM
+>Health Product Company
+
+TAHFIZYAMIN.COM
+>http://tahfizyamin.com
+>Al-Quran Tahfeez Institute (High School)
+
+BAITULZIKRI.COM
+>http://baitulzikri.com
+>Al-Quran Private Tuition Centre
+
+BIZMILLA CATERING
+>Catering provider; I help in some modules of the systems.
+
+E3Thegas.COM
+>http://e3thegas.com
+>All in One Solution and Suppliers company
+
+Websiteusahawan.COM
+>http://websiteusahawan.com
+>In house project
+
+VPagePro.COM
+>http://VPagePro.com
+>Landing Page Generator
+
+WALIMATULURUS
+>http://walimatulurus.vpagepro.com/mft143nhna
+
+SK UNDANG JELEBU (Currently changed by other webmaster)
+>http://skuj.weebly.com
+
+Fuel Gain Kit Store for APT Touch
+>http://www.vcari.net/apttouch/wordpress
+>A complete e-commerce website including the store, payment gateway, cart and others. Wordpress(WooCo) & Laravel.
+
 Whatsapp Link Generator
 >https://github.com/qeifar/WasapDen-Link-To-WA
 
 HR-CV Hiring Systems
 >https://github.com/qeifar/HR-CV-Hiring-Systems-Using-Laravel-MVC
 
-Canopy Business Store and Profile
+Canopy Business Store and Profile (CanopyMe)
 >https://github.com/qeifar/Canopy-Business-Store-and-Profile-using-Laravel
 
 HR-CV Hiring Systems
